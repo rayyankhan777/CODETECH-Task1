@@ -32,8 +32,9 @@ By leveraging JavaScript for dynamic quiz functionality, this project aims to cr
 - **JavaScript**: Handles quiz logic such as scoring, navigation between questions, and displaying results.
 
 ## Screenshots
+![Screenshot 2024-10-15 213535](https://github.com/user-attachments/assets/391df275-7b2e-4861-b3a9-ca9c8db62cb2)
 ![Screenshot 2024-10-15 213610](https://github.com/user-attachments/assets/2f9667c0-e447-4a9d-b500-85110b2acbf2)
 ![Screenshot 2024-10-15 213639](https://github.com/user-attachments/assets/867543a7-1841-479a-8319-d26fd36a84bf)
 ![Screenshot 2024-10-15 213652](https://github.com/user-attachments/assets/b1748819-efd5-40b8-acc4-49b27fb5e237)
-![Screenshot 2024-10-15 213535](https://github.com/user-attachments/assets/391df275-7b2e-4861-b3a9-ca9c8db62cb2)
+
 
