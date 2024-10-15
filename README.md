@@ -3,7 +3,7 @@
 ## **ID:** CT08DS8193 
 ## **Domain:** FRONTEND WEB DEVLOPMENT
 ## **Duration:** Sept to Oct 2024
-## **Mentor:** 
+## **Mentor:** Neela Santosh Kumar
 
 
 ## Overview of the project
